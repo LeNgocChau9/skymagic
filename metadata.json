@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Esports Championship 2026",
+  "description": "Cổng thông tin chính thức, lịch thi đấu, bảng xếp hạng, đặt vé và merchandise giải đấu Esports Free Fire & Arena of Valor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
